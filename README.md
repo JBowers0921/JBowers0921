@@ -1,4 +1,4 @@
-<h1>Hi, I'm Juanita, an <a href="https://linkedin.com/in/Juanita Bowers">IT Professional</a>☺</h1>
+<h1>Hi, I'm Juanita, an <a href="https://www.linkedin.com/in/juanita-bowers-617701254/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Br1Ny8ttsSVWZqcgADaG%2FEg%3D%3D
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
