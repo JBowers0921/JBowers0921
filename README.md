@@ -16,5 +16,4 @@
 
 
 
-h
-[linkedin]: https://linkedin.com/in/juanita-bowers-617701254
+ https://linkedin.com/in/juanita-bowers-617701254
